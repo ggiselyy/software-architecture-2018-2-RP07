@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.utfpr.cp.sa</groupId>
-    <artifactId>app2</artifactId>
+    <artifactId>Resolucao08</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
-    <name>app2</name>
+    <name>Resolucao08</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
